@@ -111,7 +111,7 @@ header .fa-bars {
     align-items: center;
     background: linear-gradient(
         rgba(156, 60, 140, 0.9),
-        rgba(253, 253, 253, 0.9)
+        rgba(255, 255, 255, 0.9)
     ),
     url("/Images/images\ \(4\).jpeg") no-repeat;
     background-size: cover;
